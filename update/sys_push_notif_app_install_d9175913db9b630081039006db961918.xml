@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-02-03 16:40:56</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-03 16:40:56</sys_created_on>
+        <sys_id>d9175913db9b630081039006db961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ebKrv7IZ-tg:APA91bE-N1eEMbX6XJLjDTACbVFkcJ-7SkCUrdT-Hl1Wf0ch92p02a938wzWaM_ZiEvcH_tcULKZw9jDOPdimy1yVywn50ItST1mYZ_wEPfY-SiPbSw0q1sO4EB2YqTUhM5DHPY4yf6U</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Classic Mobile Application">ab704041ff1102009738ffffffffff33</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_d9175913db9b630081039006db961918</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-03 16:40:56</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>ebKrv7IZ-tg:APA91bE-N1eEMbX6XJLjDTACbVFkcJ-7SkCUrdT-Hl1Wf0ch92p02a938wzWaM_ZiEvcH_tcULKZw9jDOPdimy1yVywn50ItST1mYZ_wEPfY-SiPbSw0q1sO4EB2YqTUhM5DHPY4yf6U</token>
+    </sys_push_notif_app_install>
+</record_update>
